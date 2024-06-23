@@ -1,0 +1,27 @@
+{
+  "data": {
+    "github-user": ["https://api.github.com/users/Msamuelsons"],
+    "content": {
+      "header": "Welcome to my portfolio!",
+      "subheader": "I am a data scientist with a passion for machine learning and data analysis."
+    },
+    
+    "images": {
+      "icons": {
+        "pyton_icon": "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png",
+        "pandas_icon": "https://media.licdn.com/dms/image/D4D12AQE6U86EjeXXcQ/article-cover_image-shrink_600_2000/0/1657116588165?e=2147483647&v=beta&t=AJRPDSbjFKmL4hIaDJcKfsn3zZ_Gu-EjB5RgTYHWDRY",
+        "numpy_icon": "https://user-images.githubusercontent.com/98330/64479472-4b35c900-d16c-11e9-8d49-71fc02cd539f.png",
+        "matplotlib_icon": "https://cieda.com.br/cieda/site/img/logo/matplotlib.02a.png",
+        "seaborn_icon": "https://seaborn.pydata.org/_images/logo-tall-lightbg.svg",
+        "scikit_learn_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/640px-Scikit_learn_logo_small.svg.png",
+        "tensorflow_icon": "https://static-00.iconduck.com/assets.00/tensorflow-icon-955x1024-hd4xzbqj.png",
+        "keras_icon": "https://raw.githubusercontent.com/github/explore/cf9a84017e3cdd93aeb635d9b85379ba67d62031/topics/keras/keras.png",
+        "postgresql_icon": "https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png",
+        "powebi_icon": "https://static-00.iconduck.com/assets.00/power-bi-icon-384x512-bujnuaon.png",
+        "excel_icon": "https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png",
+        "mojo_icon": "https://modular-mojotools.gallerycdn.vsassets.io/extensions/modular-mojotools/vscode-mojo/24.4.0/1717719094674/Microsoft.VisualStudio.Services.Icons.Default"
+      } 
+    }
+  }
+  
+}
