@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', async () => {
-  const path = 'https://raw.githubusercontent.com/Msamuelsons/portfolio2.0/master/dados/informacoes.json';
+  const path = 'https://github.com/Msamuelsons/portfolio2.0/blob/master/dados/informacoes.json';
   const container = document.querySelector('.circle-container');
 
   try {
